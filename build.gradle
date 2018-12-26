@@ -42,7 +42,7 @@ ext {
     junit_version = '4.12'
 
     //publish info
-    siteUrl = 'https://github.com/yieryi/ifok'
-    gitUrl = 'https://github.com/yieryi/ifok.git'
+    siteUrl = 'https://github.com/uncle404/Alert'
+    gitUrl = 'https://github.com/uncle404/Alert.git'
 
 }
